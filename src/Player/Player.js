@@ -16,7 +16,7 @@ const Player = (props) => {
                 <div className="col-7">
                     <div className="player-details">
                         <h5>{name}</h5>
-                        <h4>Salary: {salary}</h4>
+                        <h5 className="mb-3">Salary: ${salary} million</h5>
                         <Button onClick={()=> props.handleAddToTeam(props.player)} key={id} className="btn-primary">
                             <FontAwesomeIcon icon={faPlus} /> add to team
                         </Button>

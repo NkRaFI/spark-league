@@ -17,7 +17,7 @@ const Team = (props) => {
                                 <p>{player.name}</p>
                             </div>
                             <div>
-                                <p>{player.salary}</p>
+                                <p>${player.salary} million</p>
                             </div>
                         </div>
                     )

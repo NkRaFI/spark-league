@@ -43,7 +43,7 @@ function App() {
               <Team selectedPlayers={selectedPlayers}></Team>
               <div className="d-flex justify-content-between text-primary">
                 <h6>Total Budget Needed:</h6>
-                <h6>{totalBudget}</h6>
+                <h6>${totalBudget} million</h6>
               </div>
             </div>
           </div>
