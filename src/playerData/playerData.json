@@ -1,0 +1,51 @@
+[{
+    "id": 1,
+    "name": "Lionel Messi",
+    "img": "https://i.insider.com/5f609a1a323fc4001e0d62f3?width=700&format=jpeg&auto=webp",
+    "salary": 92 
+  }, {
+    "id": 2,
+    "name": "Cristiano Ronaldo",
+    "img": "https://i.insider.com/5f609a44323fc4001e0d62f4?width=700&format=jpeg&auto=webp",
+    "salary": 70
+  }, {
+    "id": 3,
+    "name": "Neymar",
+    "img": "https://i.insider.com/5f609a4f323fc4001e0d62f5?width=700&format=jpeg&auto=webp",
+    "salary": 78
+  }, {
+    "id": 4,
+    "name": "Kylian Mbappe",
+    "img": "https://i.insider.com/5f609a5c323fc4001e0d62f6?width=700&format=jpeg&auto=webp",
+    "salary": 28
+  }, {
+    "id": 5,
+    "name": "Mohamed Salah",
+    "img": "https://i.insider.com/5f609b28323fc4001e0d62fb?width=700&format=jpeg&auto=webp",
+    "salary": 24
+  }, {
+    "id": 6,
+    "name": "Paul Pogba",
+    "img": "https://i.insider.com/5f609a73323fc4001e0d62f7?width=700&format=jpeg&auto=webp",
+    "salary": 28
+  }, {
+    "id": 7,
+    "name": "Antoine Griezmann",
+    "img": "https://i.insider.com/5f609a7d323fc4001e0d62f8?width=700&format=jpeg&auto=webp",
+    "salary": 28
+  }, {
+    "id": 8,
+    "name": "Gareth Bale",
+    "img": "https://i.insider.com/5f609cf1323fc4001e0d6304?width=700&format=jpeg&auto=webp",
+    "salary": 23
+  }, {
+    "id": 9,
+    "name": "Robert Lewandowski",
+    "img": "https://i.insider.com/5f609af3323fc4001e0d62f9?width=700&format=jpeg&auto=webp",
+    "salary": 24
+  }, {
+    "id": 10,
+    "name": "David de Gea",
+    "img": "https://i.insider.com/5f609cd4323fc4001e0d6303?width=700&format=jpeg&auto=webp",
+    "salary": 24
+  }]
